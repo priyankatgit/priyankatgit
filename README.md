@@ -1,15 +1,35 @@
-<h1 align="center">Hi 👋 there, I'm Priyank!</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
-
-- 🔭 I’m currently working on **ERP Product which is specially targeted for Electronics and High Tech Manufacturing industry.**
-
-- 👨‍💻 All of my projects are available at [https://stackoverflow.com/cv/cv-priyank](https://stackoverflow.com/cv/cv-priyank)
+# Hi 👋 there, I'm Priyank!
+### A passionate full-stack developer from India, working at [@Intellial](https://intellial.com/)
 
 - 📝 I regularly write articles on [https://nostalgia.dev/](https://nostalgia.dev/)
 
 - 💬 Ask me about **python, c#, javascript**
 
 - 📫 How to reach me **mailatpriyank@gmail.com**
+
+<br />
+
+### What do I do at Intellial?
+
+- Involvement in Database design and defining application architecture.
+- Involvement in the development of the core framework to increase faster development.
+- Planning, executing, monitoring, controlling, and delivering projects on time.
+
+### What am I currently working on?
+
+On ERP Product which is specially targeted for Electronics and High Tech Manufacturing industry
+
+
+### Development Stack using and worked on
+
+- **Development**: Python, Django, React, Postgres
+- **Database**: Postgres, MSSQL, and Elasticsearch. For management DBeaver, SQL Studio and Kibana
+- **Message** Queue: NSQ, Redis, Celery, Azure Event Grid
+- **Cloud**: AWS(EC2, RDS, Lambda, S3), Azure(MSG Queue, Azure Blob)
+- **Experimenting**: AframeJS, ThreeJS
+- **Version** Control: Bitbucket, Git, and Git CLI
+- **Server**: Ubuntu, Nginx, Windows, IIS
+- **Worked in too**: C#(Winform, ASP.NET, MVC), Java(GWT)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
