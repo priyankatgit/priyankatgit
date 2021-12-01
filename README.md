@@ -11,9 +11,9 @@
 
 ### What do I do at Intellial?
 
-- Planning, executing and controlling assigned projects, ensuring work performed complied with contractual requirements.
-- Managed team meetings and discussed project's goals and objectives.
-- Involvement in development of core framework to increase productivity, efficiency and agility in a development of team member.
+- Planning, executing, and controlling assigned projects, ensuring work performed complied with contractual requirements.
+- Managed team meetings and discussed the project's goals and objectives.
+- Involvement in the development of a core framework to increase productivity, efficiency, and agility in the development of team members.
 
 ### What am I currently working on?
 
