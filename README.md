@@ -1,5 +1,5 @@
 # Hi 👋 there, I'm Priyank!
-### A passionate full-stack developer from India, working at [@Intellial](https://intellial.com/)
+### A passionate lead full-stack developer from India, working at [@Intellial](https://intellial.com/)
 
 - 📝 I regularly write articles on [https://nostalgia.dev/](https://nostalgia.dev/)
 
