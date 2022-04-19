@@ -7,30 +7,6 @@
 
 - 📫 How to reach me **mailatpriyank@gmail.com**
 
-<br />
-
-### What do I do at Intellial?
-
-- Planning, executing, and controlling assigned projects, ensuring work performed complied with contractual requirements.
-- Managed team meetings and discussed the project's goals and objectives.
-- Involvement in the development of a core framework to increase productivity, efficiency, and agility in the development of team members.
-
-### What am I currently working on?
-
-On ERP Product which is specially targeted for Electronics and High Tech Manufacturing industry
-
-
-### Development Stack using and worked on
-
-- **Development**: Python, Django, React, Postgres
-- **Database**: Postgres, MSSQL, and Elasticsearch. For management DBeaver, SQL Studio and Kibana
-- **Message** Queue: NSQ, Redis, Celery, Azure Event Grid
-- **Cloud**: AWS(EC2, RDS, Lambda, S3), Azure(MSG Queue, Azure Blob)
-- **Experimenting**: AframeJS, ThreeJS
-- **Version** Control: Bitbucket, Git, and Git CLI
-- **Server**: Ubuntu, Nginx, Windows, IIS
-- **Worked in too**: C#(Winform, ASP.NET, MVC), Java(GWT)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/priyank_patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="priyank_patel" height="30" width="40" /></a>
