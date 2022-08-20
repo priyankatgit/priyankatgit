@@ -1,7 +1,7 @@
 # Hi 👋 there, I'm Priyank!
 ### A passionate lead full-stack developer from India, working at [@Intellial](https://intellial.com/)
 
-- 📝 I regularly write articles on [https://nostalgia.dev/](https://nostalgia.dev/)
+- 📝 I regularly write articles on [https://priyankpatel.dev](https://priyankpatel.dev/)
 
 - 💬 Ask me about **python, c#, javascript**
 
