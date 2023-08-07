@@ -1,9 +1,9 @@
 # Hi 👋 there, I'm Priyank!
-### A passionate lead full-stack developer from India, working at [@Intellial](https://intellial.com/)
+### A passionate lead full-stack developer from India, working at [@Commerce Pundit](https://www.commercepundit.com/)
 
 - 📝 I regularly write articles on [https://priyankpatel.dev](https://priyankpatel.dev/)
 
-- 💬 Ask me about **python, c#, javascript**
+- 💬 Ask me about **javascript, elasticsearch, rabbitmq, node and MongoDB**
 
 - 📫 How to reach me **mailatpriyank@gmail.com**
 
