@@ -15,3 +15,6 @@ I'm a passionate lead full-stack developer from India, currently working at [Com
 Connect with me on [LinkedIn](https://www.linkedin.com/in/priyank90/) to stay updated on my latest projects, articles, and explorations in the world of technology
 
 
+### 🎧 Music that keeps me charged
+
+[Spotify](https://open.spotify.com/playlist/3efnn0Tx0oXrO3FMXgGwj8?si=13ca9d77e3534448)
